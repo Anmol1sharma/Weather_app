@@ -26,3 +26,4 @@ This is a simple weather application that allows users to get real-time weather 
 ## Setup and Installation
 
 ### 1. Clone the Repository
+git clone https://github.com/Anmol1sharma/Weather_app.git
